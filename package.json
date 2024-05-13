@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/colorconverter",
+  "version": "1.0.0",
+  "description": "Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/colorconverter-API.git"
+  },
+  "keywords": [
+    "color converter"," color converter api"," color converter tool"," color converter software"," color converter service"," color converter library"," color converter sdk"," color converter code"," color converter script"," color converter program"," color converter application"," color converter app"," color converter utility"," color converter helper"," color converter helper tool"," color converter helper software"," color converter helper service"," color converter helper library"," color converter helper sdk"," color converter helper code"," color converter helper script"," color converter helper program"," color converter helper application"," color converter helper app"," color converter helper utility"," color converter helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/colorconverter-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/colorconverter-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
