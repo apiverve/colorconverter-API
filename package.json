@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/colorconverter-API.git"
   },
   "keywords": [
-    "color converter"," color converter api"," color converter tool"," color converter software"," color converter service"," color converter library"," color converter sdk"," color converter code"," color converter script"," color converter program"," color converter application"," color converter app"," color converter utility"," color converter helper"," color converter helper tool"," color converter helper software"," color converter helper service"," color converter helper library"," color converter helper sdk"," color converter helper code"," color converter helper script"," color converter helper program"," color converter helper application"," color converter helper app"," color converter helper utility"," color converter helper"
+    "color converter","color converter api","color converter tool","color converter software","color converter service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
