@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/colorconverter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Color Converter is a simple tool for converting color formats. It returns the color converted to the specified format.",
   "main": "index.js",
   "scripts": {
